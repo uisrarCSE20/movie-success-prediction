@@ -1,5 +1,12 @@
 # Data Mining Approach for Movie Success Prediction
 
+The system was developed using Python (3.10.4), Pip (22.0.4) and Jupyter Notebook (6.4.10).
+
+### Required Python Packages
+  - Numpy
+  - Pandas
+  - Scikit-Learn
+
 ### Applied Algorithms
   - k-Nearest Neighbour (k-NN)
   - Random Forest (RF)
