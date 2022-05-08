@@ -6,6 +6,10 @@ The system was developed using Python (3.10.4), Pip (22.0.4) and Jupyter Noteboo
   - Numpy
   - Pandas
   - Scikit-Learn
+  - Matplotlib
+  - Seaborn
+  - Imageio
+  - Pyplot
 
 ### Applied Algorithms
   - k-Nearest Neighbour (k-NN)
